@@ -1,0 +1,24 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Dendrobium orchid"
+    },
+    {
+      "id": 2,
+      "name": "Narcissus"
+    },
+    {
+      "id": 3,
+      "name": "Cyclamen"
+    },
+    {
+      "id": 4,
+      "name": "Hyacinth"
+    },
+    {
+      "id": 5,
+      "name": "Camellia"
+    }
+  ]
+}
